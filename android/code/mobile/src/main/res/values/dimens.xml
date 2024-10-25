@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="threshold_size">50dp</dimen>
+    <dimen name="threshold_unit_size">25dp</dimen>
+    <dimen name="infoTitle"> 18dp </dimen>
+    <dimen name="infoDetails"> 18dp </dimen>
+    <dimen name="buttonText"> 20dp </dimen>
+</resources>

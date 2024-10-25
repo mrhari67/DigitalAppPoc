@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SkodaPoc</string>
+    <string name="speed_unit">mph</string>
+
+    <string name="violation_incidence">Violation incidence</string>
+    <string name="enter_vin">Enter VIN</string>
+    <string name="login">Login</string>
+    <string name="vin">VIN:</string>
+
+
+    <string name="change_speed_threshold">Change Speed Threshold</string>
+
+    <string name="vehicle_number">Vehicle Number : </string>
+    <string name="dummy_vehicle_number">TechM-12345</string>
+    <string name="current_speed_heading">Current Speed Limit :</string>
+    <string name="dummy_current_speed_heading">12</string>
+    <string name="violation_incidence_count">Violation incidence count : </string>
+    <string name="dummy_violation_incidence_count">5</string>
+    <string name="reset_threshold"> Set </string>
+    <string name="view_map">View Violations</string>
+
+    <string name="enter_vehicle_number">Please enter vehicle number.</string>
+    <string name="no_speed_violation">No speed violation.</string>
+
+    <string name="error_in_get_speed_threshold">Something went wrong while accessing speed limit..Please try again.</string>
+    <string name="error_in_set_speed_threshold">Something went wrong while setting speed limit..Please try again.</string>
+    <string name="error_in_get_speed_violation">Something went wrong while reporting speed violation.Please try again.</string>
+    <string name="error_in_set_speed_violation">Something went wrong.Please try again.</string>
+    <string name="error_message">Something went wrong.Please try again.</string>
+
+
+</resources>

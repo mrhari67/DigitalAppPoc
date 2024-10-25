@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Theme.SkodaPoc" parent="android:Theme.Material.Light.DarkActionBar" />
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SkodaPoc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/background</item>
+    </style>
+
+    <style name="Theme.SkodaPoc.Fullscreen" parent="Theme.SkodaPoc">
+        <item name="android:actionBarStyle">@style/Widget.Theme.SkodaPoc.ActionBar.Fullscreen</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ThemeOverlay.SkodaPoc.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/background</item>
+        <item name="fullscreenTextColor">@color/primary</item>
+    </style>
+</resources>
